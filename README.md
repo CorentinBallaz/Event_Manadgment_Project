@@ -1,3 +1,3 @@
 # Event_Manadgment_Project
 
-For more informations, check ProjetEvent_info641_BCWB
+For more informations, check Rapport_EventManagmentProjet_BCWB
